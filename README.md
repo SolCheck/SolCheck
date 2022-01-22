@@ -1,16 +1,20 @@
-### Hi there 👋
+Hey! It's SolCheck.
+We are the team of blockchain engineers and developers with wide experience on crypto market.
 
-<!--
-**SolCheck/SolCheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Services we are providing:
 
-Here are some ideas to get you started:
+⛏ Free Smart Contract security checks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Full Smart Contract security audit.
+
+💻 Smart Contracts development:
+* Any Solidity smart contract.
+* Farming/ Staking/ Vault smart contracts.
+* Any contracts with your custom logic and requirements.
+
+⚡ Dashboards development and web3 integrations.
+<!-- Our statistics:
+🚀 More than 300 public Smart Contract audits at techrate.org.
+🛸 More than 100 private Smart Contract audits.
+🎊 50 Staking and 30 Farming Smart Contracts developed.
+🧨 More than 50 Token and Custom Smart Contracts developed. -->
